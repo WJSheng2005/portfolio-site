@@ -13,19 +13,20 @@
 .bg-bottom {
     background-color: var(--h-title-color);
 }
+
 .top-section {
     position: relative;
     padding: 0;
     background-position: center;
     background-size: cover;
-    height: 25rem;
-
+    height: 16rem;          /* 原来25rem，现在缩小 */
+    
     display: flex;
-    align-items: center;   /* 垂直居中 */
+    align-items: center;    /* 垂直居中 */
 }
-
 .top-section h2 {
     font-weight: 400;
+    margin-left: 6rem;   /* 向右移动 */
 }
 
 .top-section .top-section-content {
