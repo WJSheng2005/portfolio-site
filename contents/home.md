@@ -8,7 +8,7 @@
 
 <span style="font-weight:600;">教育经历</span>  
 
-**北京大学附属中学**, 高中 (2019.09 – 2023.06)  
+**北京大学附属中学**, 初三至高中 (2019.09 – 2023.06)  
 • <span style="font-weight:600;">高考选科：</span>物理、化学、地理  
 • <span style="font-weight:600;">GPA:</span> 4.08/4.5 &nbsp;&nbsp; (85.53/100)  
 
