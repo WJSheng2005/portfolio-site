@@ -1,16 +1,30 @@
 <span style="font-weight:600;">邮件</span>  
-[202311051009@mail.bnu.edu.cn](mailto:202311051009@mail.bnu.edu.cn)
+<a href="mailto:202311051009@mail.bnu.edu.cn">202311051009@mail.bnu.edu.cn</a>
 
 <span style="font-weight:600;">电话</span>  
 +86 18801070412  
 
 <span style="font-weight:600;">教育经历</span>  
 
-<span style="font-weight:500;">北京大学附属中学</span>, 高中 (2019.09 – 2023.06)  
+<table style="border-collapse:collapse;">
+<tr>
+<td style="padding-right:20px;"><span style="font-weight:500;">北京大学附属中学</span></td>
+<td style="padding-right:20px;">初三及高中</td>
+<td>(2019.09 – 2023.06)</td>
+</tr>
+</table>
+
 • <span style="font-weight:400;">高考选科：</span>物理、化学、地理  
 • <span style="font-weight:400;">GPA：</span>4.08/4.5 &nbsp;&nbsp; (85.53/100)  
 
-<span style="font-weight:500;">北京师范大学</span>, 本科 (2023.09 &nbsp;&nbsp; 至今)  
+<table style="border-collapse:collapse;">
+<tr>
+<td style="padding-right:20px;"><span style="font-weight:500;">北京师范大学</span></td>
+<td style="padding-right:20px;">本科</td>
+<td>(2023.09 – 至今)</td>
+</tr>
+</table>
+
 • <span style="font-weight:400;">专业：</span>地理信息科学  
 • <span style="font-weight:400;">GPA：</span>3.77/4.0 &nbsp;&nbsp; (89.81/100) &nbsp;&nbsp; Rank (5/29)  
 • <span style="font-weight:400;">数理基础：</span>微积分Ⅰ（97）大学物理Ⅱ（98）普通化学（93）概率论与数理基础（91）  
