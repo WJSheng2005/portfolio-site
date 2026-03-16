@@ -27,7 +27,7 @@
 
 • <span style="font-weight:400;">专业：</span>地理信息科学  
 • <span style="font-weight:400;">GPA：</span>3.77/4.0 &nbsp;&nbsp; (89.81/100) &nbsp;&nbsp; Rank (5/29)  
-
+• <span style="font-weight:400;">英语水平：</span>雅思 7.0（听力 8.5） &nbsp;&nbsp; CET-6 529 
 • <span style="font-weight:400;">数理基础：</span>  
 微积分Ⅰ（97） 微积分Ⅱ（89） 大学物理Ⅰ（90） 大学物理Ⅱ（98） 普通化学（93） 概率论与数理基础（91）
 
