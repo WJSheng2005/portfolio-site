@@ -1,1 +1,2 @@
-
+- **代码技能：** Python、Matlab、C++、R；熟练使用 Stata 进行数据分析  
+- **专业软件：** ArcGIS Pro、ENVI、Google Earth Engine (GEE)、GeoDa、SPSS、Origin
