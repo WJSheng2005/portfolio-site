@@ -1,5 +1,5 @@
 <span style="font-weight:600;">邮件</span>  
-[202311051009XX@mail.bnu.edu.cn](mailto:202311051009XX@mail.bnu.edu.cn)
+[202311051009@mail.bnu.edu.cn](mailto:202311051009@mail.bnu.edu.cn)
 
 <span style="font-weight:600;">电话</span>  
 +86 18801070412  
