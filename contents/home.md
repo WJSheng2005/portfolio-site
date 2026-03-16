@@ -9,7 +9,7 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
 <td style="width:45%;"><span style="font-weight:500;">北京大学附属中学</span></td>
-<td style="width:25%;"><span style="font-weight:300;">初三及高中</td>
+<td style="width:25%;"><span style="font-weight:300;">初三及高中</span></td>
 <td style="width:30%; text-align:right;">2019.09 – 2023.06</td>
 </tr>
 </table>
@@ -20,12 +20,17 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
 <td style="width:45%;"><span style="font-weight:500;">北京师范大学</span></td>
-<td style="width:25%;"><span style="font-weight:300;">本科</td>
+<td style="width:25%;"><span style="font-weight:300;">本科</span></td>
 <td style="width:30%; text-align:right;">2023.09 – 至今</td>
 </tr>
 </table>
 
 • <span style="font-weight:400;">专业：</span>地理信息科学  
 • <span style="font-weight:400;">GPA：</span>3.77/4.0 &nbsp;&nbsp; (89.81/100) &nbsp;&nbsp; Rank (5/29)  
-• <span style="font-weight:400;">数理基础：</span>微积分Ⅰ（97）大学物理Ⅱ（98）普通化学（93）概率论与数理基础（91）  
-• <span style="font-weight:400;">专业核心：</span>深度学习与地理应用（94）微波遥感（94）GIS空间分析（92）遥感数字图像处理（92）
+
+• <span style="font-weight:400;">数理基础：</span>  
+微积分Ⅰ（97） 微积分Ⅱ（97.5） 大学物理Ⅱ（98） 大学物理BⅠ（97.7） 普通化学（93） 概率论与数理基础（91）
+
+• <span style="font-weight:400;">专业核心：</span>  
+深度学习与地理应用（94） 微波遥感（94） GIS空间分析（92） 遥感数字图像处理（92）  
+地学统计分析（98） 地表水热平衡（96）
