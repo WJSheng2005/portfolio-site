@@ -9,7 +9,7 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
 <td style="width:45%;"><span style="font-weight:500;">北京大学附属中学</span></td>
-<td style="width:25%;">初三及高中</td>
+<td style="width:25%;"><span style="font-weight:300;">初三及高中</td>
 <td style="width:30%; text-align:right;">2019.09 – 2023.06</td>
 </tr>
 </table>
@@ -20,7 +20,7 @@
 <table style="width:100%; border-collapse:collapse;">
 <tr>
 <td style="width:45%;"><span style="font-weight:500;">北京师范大学</span></td>
-<td style="width:25%;">本科</td>
+<td style="width:25%;"><span style="font-weight:300;">本科</td>
 <td style="width:30%; text-align:right;">2023.09 – 至今</td>
 </tr>
 </table>
