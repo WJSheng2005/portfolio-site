@@ -1,7 +1,7 @@
-### Undergraduate Research Training and Innovation Program (University-level)  
-**Do the Rotation of City Leaders Promote Urban Sustainable Development? — Evidence from a Difference-in-Differences Analysis of 254 Chinese Cities**  
-*Principal Investigator* | May 2025 – Present  
+### 校级本科生科研训练与创业创新项目  
+**城市领导人调任促进城市可持续发展吗？——来自254个地级市双重差分的证据**  
+项目负责人 | 2025.05 – 至今  
 
-- **Project Description:** Conduct an empirical study on the impact of city leader rotation on the Sustainable Development Goals (SDGs) using a Difference-in-Differences (DID) model, and explore the underlying mechanisms and motivations.  
-- **Responsibilities:** Initiated the project proposal, collected and organized datasets, processed more than 5,000 observations using Stata, and drafted the main body of the research paper.  
-- **Outcome:** Paper under preparation for submission.
+- 利用双重差分（DID）方法研究城市领导人调任对可持续发展目标（SDGs）的影响，并探讨其作用机制与动机。  
+- 负责项目立项与整体设计，收集并整理研究数据，使用 Stata 对 5000 余条样本数据进行处理与分析。  
+- 撰写论文主体内容，研究成果形成论文，目前在投。
