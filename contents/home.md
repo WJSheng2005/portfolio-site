@@ -8,12 +8,12 @@
 
 <span style="font-weight:600;">教育经历</span>  
 
-**北京大学附属中学**, 初三至高中 (2019.09 – 2023.06)  
-• <span style="font-weight:1200;">高考选科：</span>物理、化学、地理  
-• <span style="font-weight:600;">GPA:</span> 4.08/4.5 &nbsp;&nbsp; (85.53/100)  
+**北京大学附属中学**, 初三及高中 (2019.09 – 2023.06)  
+• <strong>高考选科：</strong>物理、化学、地理  
+• <strong>GPA：</strong>4.08/4.5 &nbsp;&nbsp; (85.53/100)  
 
 **北京师范大学**, 本科 (2023.09 &nbsp;&nbsp; 至今)  
-• <span style="font-weight:600;">专业：</span>地理信息科学  
-• <span style="font-weight:600;">GPA:</span> 3.77/4.0 &nbsp;&nbsp; (89.81/100) &nbsp;&nbsp; Rank (5/29)  
-• <span style="font-weight:600;">数理基础：</span>微积分Ⅰ（97）大学物理Ⅱ（98）普通化学（93）概率论与数理基础（91）  
-• <span style="font-weight:600;">专业核心：</span>深度学习与地理应用（94）微波遥感（94）GIS空间分析（92）遥感数字图像处理（92）
+• <strong>专业：</strong>地理信息科学  
+• <strong>GPA：</strong>3.77/4.0 &nbsp;&nbsp; (89.81/100) &nbsp;&nbsp; Rank (5/29)  
+• <strong>数理基础：</strong>微积分Ⅰ（97）大学物理Ⅱ（98）普通化学（93）概率论与数理基础（91）  
+• <strong>专业核心：</strong>深度学习与地理应用（94）微波遥感（94）GIS空间分析（92）遥感数字图像处理（92）
