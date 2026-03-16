@@ -6,22 +6,22 @@
 
 <span style="font-weight:600;">教育经历</span>  
 
-<table style="border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse;">
 <tr>
-<td style="padding-right:20px;"><span style="font-weight:500;">北京大学附属中学</span></td>
-<td style="padding-right:20px;">初三及高中</td>
-<td>(2019.09 – 2023.06)</td>
+<td style="width:45%;"><span style="font-weight:500;">北京大学附属中学</span></td>
+<td style="width:25%;">初三及高中</td>
+<td style="width:30%; text-align:right;">2019.09 – 2023.06</td>
 </tr>
 </table>
 
 • <span style="font-weight:400;">高考选科：</span>物理、化学、地理  
 • <span style="font-weight:400;">GPA：</span>4.08/4.5 &nbsp;&nbsp; (85.53/100)  
 
-<table style="border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse;">
 <tr>
-<td style="padding-right:20px;"><span style="font-weight:500;">北京师范大学</span></td>
-<td style="padding-right:20px;">本科</td>
-<td>(2023.09 – 至今)</td>
+<td style="width:45%;"><span style="font-weight:500;">北京师范大学</span></td>
+<td style="width:25%;">本科</td>
+<td style="width:30%; text-align:right;">2023.09 – 至今</td>
 </tr>
 </table>
 
