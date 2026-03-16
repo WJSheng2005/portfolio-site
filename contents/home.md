@@ -8,17 +8,6 @@
 
 <table style="width:100%; border-collapse:collapse;">
 <tr>
-<td style="width:45%;"><span style="font-weight:500;">北京大学附属中学</span></td>
-<td style="width:25%;"><span style="font-weight:300;">初三及高中</span></td>
-<td style="width:30%; text-align:right;">2019.09 – 2023.06</td>
-</tr>
-</table>
-
-• <span style="font-weight:400;">高考选科：</span>物理、化学、地理  
-• <span style="font-weight:400;">GPA：</span>4.08/4.5 &nbsp;&nbsp; (85.53/100)  
-
-<table style="width:100%; border-collapse:collapse;">
-<tr>
 <td style="width:45%;"><span style="font-weight:500;">北京师范大学</span></td>
 <td style="width:25%;"><span style="font-weight:300;">本科</span></td>
 <td style="width:30%; text-align:right;">2023.09 – 至今</td>
@@ -35,3 +24,15 @@
 
 • <span style="font-weight:400;">专业核心：</span>  
 深度学习与地理应用（94） 微波遥感（94） GIS空间分析（92） 遥感数字图像处理（92） 地学统计分析（90） 地表水热平衡（91）
+
+
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+<td style="width:45%;"><span style="font-weight:500;">北京大学附属中学</span></td>
+<td style="width:25%;"><span style="font-weight:300;">初三及高中</span></td>
+<td style="width:30%; text-align:right;">2019.09 – 2023.06</td>
+</tr>
+</table>
+
+• <span style="font-weight:400;">高考选科：</span>物理、化学、地理  
+• <span style="font-weight:400;">GPA：</span>4.08/4.5 &nbsp;&nbsp; (85.53/100)  
