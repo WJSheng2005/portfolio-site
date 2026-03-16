@@ -11,7 +11,7 @@
 </tr>
 </table>
 
-<h3 style="margin-top:40px;">荣誉奖项</h3>
+<h3 style="margin-top:20px;">荣誉奖项</h3>
 
 <table style="width:100%; border-collapse:collapse;">
 <tr>
